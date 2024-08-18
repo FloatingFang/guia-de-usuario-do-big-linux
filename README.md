@@ -25,6 +25,8 @@ Você tem um redutor de som de fundo do microfone, bom o suficiente, certo?
 Você tem o VLC como padrão
 Você tem a Big Store, que para mim é uma das melhores lojas já criadas para um sistema, que integra AUR, Natives, Flatpaks e Snaps, com possibilidade de integração .deb e .rpm (WOW)
 
+![image](https://github.com/user-attachments/assets/cedaf673-d068-4271-9f8e-7d25b7b90184)
+
 # Customização
 O BigLinux é muito customizavel por padrão, sendo sua DE, o KDE, que garante uma boa usabilidade no sistema, alias olhe só uma print do meu desktop do Big Linux para ver que é customizavel
 
